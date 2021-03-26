@@ -1,6 +1,5 @@
-tickers = [
+dj_tickers = [
     'PG',
-    'MMM',
     'IBM',
     'MRK',
     'AXP',
@@ -23,10 +22,10 @@ tickers = [
     'GS',
     'NKE',
     'V',
-    'APPL',
     'WBA',
     'DOW',
     'AMGN',
     'HON',
     'CRM'    
 ]
+
